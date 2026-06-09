@@ -11,22 +11,14 @@
 
 ## 📸 Preview
 
-### 🏠 Hero Section — Light & Dark Mode
-![Light Mode](screenshots/Screenshot_2026-03-13_062029.png)
-![Dark Mode](screenshots/Screenshot_2026-03-11_081508.png)
-
-### 👗 Collections
-![Collections](screenshots/Screenshot_2026-03-13_062110.png)
-
-### 🛒 Shopping Cart
-![Cart](screenshots/Screenshot_2026-03-13_062127.png)
-
-### 📦 Order History
-![Orders](screenshots/Screenshot_2026-03-14_173441.png)
-
-### 👕 Best Sales
-![Best Sales](screenshots/Screenshot_2026-03-13_061930.png)
-
+![Dark Mode](images/Screenshot_2026-03-11_081508.png)
+![Light Mode](images/Screenshot_2026-03-13_061930.png)
+![Hero](images/Screenshot_2026-03-13_062029.png)
+![Best Sales](images/Screenshot_2026-03-13_062110.png)
+![Collections](images/Screenshot_2026-03-13_062127.png)
+![Cart](images/Screenshot_2026-03-14_173441.png)
+![Orders](images/Screenshot_2026-03-14_173503.png)
+![Light Mode 2](images/Screenshot_2026-03-14_173526.png)
 ---
 
 ## ✨ Features
