@@ -11,14 +11,24 @@
 
 ## 📸 Preview
 
+### 🌙 Dark Mode
 ![Dark Mode](images/Screenshot_2026-03-11_081508.png)
-![Light Mode](images/Screenshot_2026-03-13_061930.png)
-![Hero](images/Screenshot_2026-03-13_062029.png)
-![Best Sales](images/Screenshot_2026-03-13_062110.png)
+
+### ☀️ Light Mode
+![Light Mode](images/Screenshot_2026-03-14_173526.png)
+
+### 👗 Collections
 ![Collections](images/Screenshot_2026-03-13_062127.png)
+
+### 🛒 Shopping Cart
 ![Cart](images/Screenshot_2026-03-14_173441.png)
+
+### 📦 Order History
 ![Orders](images/Screenshot_2026-03-14_173503.png)
-![Light Mode 2](images/Screenshot_2026-03-14_173526.png)
+
+### 👕 Best Sales
+![Best Sales](images/Screenshot_2026-03-13_062110.png)
+
 ---
 
 ## ✨ Features
@@ -41,7 +51,7 @@
 | 🧥 **Hoodies** | Clean lines & neutral tones |
 | 👕 **Streetwear** | Bold prints & urban style |
 | 👖 **Pants** | Men & Women styles |
-| ⚽ **Sports Wear** | Latest Fara\`3 athletic designs |
+| ⚽ **Sports Wear** | Latest Fara`3 athletic designs |
 | 🫧 **Oversized Fit** | Loose, trending silhouettes |
 | 👔 **Shirts** | Striped & Smooth |
 | 🧣 **Coat** | Maxi Fur Coat |
@@ -74,7 +84,7 @@ cd fara3-clothing-store
 ```
 
 **3. Run it**
-- Simply open `index.html` in your browser
+- Simply open `web3.html` in your browser
 - Or use **Live Server** extension in VS Code
 
 ---
@@ -84,15 +94,10 @@ cd fara3-clothing-store
 ```
 fara3-clothing-store/
 │
-├── index.html              # Main HTML file
+├── web3.html               # Main HTML file
 ├── test1.css               # Stylesheet
 ├── web.js                  # JavaScript & jQuery logic
-├── screenshots/            # Project screenshots
-│   ├── hero_dark.png
-│   ├── hero_light.png
-│   ├── collections.png
-│   ├── cart.png
-│   └── orders.png
+├── images/                 # Screenshots & UI images
 └── README.md
 ```
 
